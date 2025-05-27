@@ -3,6 +3,8 @@
 1. Branch 1 commit 1
 2. Branch 1 commit 2
 3. Spike 1 commit 1
-4. Spike 2 commit 2
+4. Spike 1 commit 2
 
 ## Develop Branch Initiated
+
+5. Spike 1 commit 3
